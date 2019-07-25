@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suporte Multi Lingue</string>
+    <string name="text_hello_word">Olá Mundo!</string>
+    <string name="change_language">Mudar Idioma</string>
+</resources>

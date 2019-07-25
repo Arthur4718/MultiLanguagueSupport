@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MultiLanguageSupport</string>
+    <string name="text_hello_word">Hello Word</string>
+    <string name="change_language">Change Language</string>
+
+</resources>
